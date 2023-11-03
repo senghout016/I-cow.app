@@ -1,6 +1,6 @@
 body {
   font-family: 'Raleway', sans-serif;
-  color: #1f1f3f;
+  color: #2E0F37;
   background-color: #ffffff;
 }
 /* Download */
@@ -82,7 +82,7 @@ body {
 
 .heading_container h2 {
   font-weight: bold;
-  color: #1f1f3f;
+  color: #2E0F37;
   text-align: center;
   position: relative;
   padding-bottom: 10px;
@@ -92,7 +92,7 @@ body {
   content: "";
   width: 100px;
   height: 1px;
-  background-color: #1f1f3f;
+  background-color: #2E0F37;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -108,8 +108,8 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #ffffff), color-stop(45%, #1f1f3f));
-  background: linear-gradient(to right, #ffffff 50%, #1f1f3f 45%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #ffffff), color-stop(45%, #2E0F37));
+  background: linear-gradient(to right, #ffffff 50%, #2E0F37 45%);
 }
 
 .sub_page .hero_area {
@@ -195,7 +195,7 @@ body {
   top: 0;
   left: 0;
   background-color: black;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -342,17 +342,17 @@ a:focus {
 .slider_section .detail-box h1 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #365CF8;
+  color: #CD74F8;
   font-size: 5.5rem;
 }
 
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 60px;
-  background-color: #1f1f3f;
+  background-color: #2E0F37;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #1f1f3f;
+  border: 1px solid #2E0F37;
   text-transform: uppercase;
   margin-top: 35px;
 }
@@ -379,7 +379,7 @@ a:focus {
 }
 
 .slider_section .carousel-control-prev {
-  background-color: #1f1f3f;
+  background-color: #2E0F37;
   top: 80px;
   background-image: url(../images/left-arrow.png);
   background-position: 14px center;
@@ -414,7 +414,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators li.active {
-  background-color: #365CF8;
+  background-color: #CD74F8;
 }
 
 .feature_section {
@@ -444,7 +444,7 @@ a:focus {
 .feature_section .box .head-box .img-box svg {
   width: 50px;
   height: auto;
-  fill: #365CF8;
+  fill: #CD74F8;
 }
 
 .feature_section .box .head-box h6 {
@@ -462,7 +462,7 @@ a:focus {
 }
 
 .feature_section .box:hover {
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
 }
 
@@ -473,15 +473,15 @@ a:focus {
 .feature_section a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #365CF8;
+  border: 1px solid #CD74F8;
 }
 
 .feature_section a:hover {
   background-color: transparent;
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 .download_section {
@@ -489,10 +489,10 @@ a:focus {
 }
 
 .download_section .box {
-  background-color: #1f1f3f;
+  background-color: #F3F3F3;
   padding: 15px;
   margin: 45px 0;
-  color: #ffffff;
+  color: #2E0F37;
 }
 
 .download_section .box .head-box {
@@ -508,7 +508,8 @@ a:focus {
   margin-right: 15px;
   width: 60px;
   height: 60px;
-  border: 1px solid #fefdfc;
+  border: 1px solid #2E0F37;
+  background-color: #CD74F8;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -541,16 +542,16 @@ a:focus {
 .download_section .btn-1 {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #365CF8;
+  border: 1px solid #CD74F8;
   margin-top: 25px;
 }
 
 .download_section .btn-1:hover {
   background-color: transparent;
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 .download_section .btn-2 {
@@ -631,15 +632,15 @@ a:focus {
 .about_section .detail-box.b-1 a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #365CF8;
+  border: 1px solid #CD74F8;
 }
 
 .about_section .detail-box.b-1 a:hover {
   background-color: transparent;
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 .subscribe_section {
@@ -670,17 +671,17 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 0 0;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #365CF8;
+  border: 1px solid #CD74F8;
   font-weight: bold;
   line-height: 50px;
 }
 
 .subscribe_section form button:hover {
   background-color: transparent;
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 .client_section .client_container .client-id {
@@ -716,15 +717,15 @@ a:focus {
 .client_section .client_container a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fefdfc;
   border-radius: 0;
-  border: 1px solid #365CF8;
+  border: 1px solid #CD74F8;
 }
 
 .client_section .client_container a:hover {
   background-color: transparent;
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 /* contact section */
@@ -734,7 +735,7 @@ a:focus {
 
 .contact_section h2 {
   font-size: 26px;
-  color: #1f1f3f;
+  color: #2E0F37;
   font-weight: 600;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 35px;
@@ -777,7 +778,7 @@ a:focus {
 
 .contact_form-container button {
   border: none;
-  background-color: #365CF8;
+  background-color: #CD74F8;
   color: #fff;
   font-size: 15px;
   padding: 15px 45px;
@@ -824,7 +825,7 @@ a:focus {
 .info_logo-box h2 {
   font-weight: bold;
   padding: 5px 35px;
-  border-bottom: 1.5px solid #1f1f3f;
+  border-bottom: 1.5px solid #2E0F37;
 }
 
 .info_section ul {
@@ -841,7 +842,7 @@ a:focus {
 }
 
 .info_section ul li a:hover {
-  color: #365CF8;
+  color: #CD74F8;
 }
 
 .info_section .form_container input {
@@ -867,7 +868,7 @@ a:focus {
 }
 
 .info_section .form_container button {
-  background-color: #365CF8;
+  background-color: #CD74F8;
   border: none;
   outline: none;
   color: #fff;
@@ -903,7 +904,7 @@ a:focus {
 /* end info section */
 /* footer section*/
 .footer_section {
-  background-color: #365CF8;
+  background-color: #CD74F8;
   padding: 20px;
 }
 
